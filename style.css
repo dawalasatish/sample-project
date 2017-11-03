@@ -1,8 +1,30 @@
+ .nav-left{
+ 	    margin-left: 28%;
+ }
+ .navbar-toggle{
+ 	background-color: blue !important;
+ }
+ .navbar-toggle .icon-bar {
+ 	background-color: white;
+ }
 
+ #exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
 
-
-
-
+#exTab3 .tab-content {
+  color : black;
+  background-color: transparent;
+  padding : 5px 15px;
+  margin-top: 25px;
+}
+.nav-pills-text{
+	    margin-top: 2%;
+    text-align: center;
+}
+.nav-pills-center{
+	    margin-left: 27%;
+}
 
 
 

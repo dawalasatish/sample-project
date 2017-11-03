@@ -1,0 +1,29 @@
+{
+  "name": "sampleproject",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[D\u001b[Dsimple-task-working-for-that",
+  "main": "script.js",
+  "scripts": {
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawalasatish/sample-project.git"
+  },
+  "keywords": [
+    "using",
+    "html5",
+    "css3",
+    "bootstrap",
+    "javascript"
+  ],
+  "author": "satish kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawalasatish/sample-project/issues"
+  },
+  "homepage": "https://github.com/dawalasatish/sample-project#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
