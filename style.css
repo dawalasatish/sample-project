@@ -23,9 +23,12 @@
     text-align: center;
 }
 .nav-pills-center{
-	    margin-left: 27%;
+	    margin-left: 33%;
 }
-
+.border-box{
+	border: 1px solid brown;
+    padding: 10px;
+}
 
 
 
