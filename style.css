@@ -49,7 +49,9 @@
 	color:  #fff;
 	margin-top: 20px;
 }
-
+.sort-filter{
+	margin-top: 0px;
+}
 
 
 
@@ -84,6 +86,9 @@
     margin-right: -10px !important;
     margin-left: 1% !important;
 }
+.sort-filter{
+	margin-top: 40px;
+}
 }
 @media screen and (max-width: 699px) and (min-width: 480px){
 	.m-t-30{
@@ -98,15 +103,18 @@
     background-color: blue !important;
     margin-top: 38px;
 }
+.sort-filter{
+	margin-top: 40px;
+}
 }
 @media screen and (max-width: 479px) and (min-width: 320px){
 	.m-t-30{
 	margin-top: 0%;
 }
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
-    margin-right: 24px;
-    margin-left: -37px;
-    margin-top: 1px;
+   margin-right: -24px;
+margin-left: -42px;
+margin-top: 1px;
 }
 .navbar-toggle {
     background-color: blue !important;
@@ -114,6 +122,9 @@
 }
 .nav-pills-center {
     margin-left: 14%;
+}
+.sort-filter{
+	margin-top: 40px;
 }
 }
 @media screen and (max-width: 319px) and (min-width: 230px){
@@ -131,6 +142,9 @@
 }
 .nav-pills-center {
     margin-left: 14%;
+}
+.sort-filter{
+	margin-top: 40px;
 }
 
 }
